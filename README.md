@@ -14,7 +14,9 @@ eg:-322998
 First 3-digit code is V-C-A (Vaccine-Covid-Age)
 
 Vaccine = {3,2,1} , 3 = no vaccination , 2 = 2 month vaccination, 1 = 1 month vaccination.
+
 Covid = {3,2,1}, 3 = no Covid, 2 = 2 months before Covid, 1 = 1 months before Covid
+
 Age = {9,8,7,6,5,4,3,2,1} , defines age group (9=90-100).
 
 Last 3 digit determine the sequence of Registration, where 999 is given most
