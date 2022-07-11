@@ -1,6 +1,6 @@
 # Vaccine-Distribution-System
 
-An efficient program in which helps allotting slots for vaccination by considering many factors such as 
+An efficient program which helps in allotting slots for vaccination by considering many factors such as 
 availability, age, RTPCR covid report, number of doses etc. 
 The motive is to vaccinate all people in our dataset within a pre defined set of time (here 3 months). 
 AVL tree has been used to achieve high efficieny and make the program scalable to handle large datasets. 
